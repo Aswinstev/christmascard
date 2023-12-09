@@ -17,7 +17,7 @@
 body {
     height: 100vh;
     background-color: #58a6ff;
-    background-image: linear-gradient(315deg, #327dee 0%, #7db9fd 74%);
+    background-image: linear-gradient(315deg, #ff0808 0%, #7db9fd 74%);
 }
 
 .container {
